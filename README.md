@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+.<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -69,7 +69,7 @@
 
 <header>
     Roobesh<br>
-    <small>Computer science & Cyber Security Enthusiast</small>
+    <small>Computer science</small>
 </header>
 
 <nav>
@@ -91,21 +91,13 @@
         <p><strong>Madras University
         </strong> - Computer science </p>
     </section>
-
     <section id="skills">
         <h2>Skills</h2>
         <ul>
-            <li>CyberSecurity</li>
-            <li>Internet of Things</li>
-            <li>Cloud Computing</li>
             <li>Python</li>
-            <li>IBM Cloud</li>
-            <li>Machine Learning & AI</li>
-            <li>Java, C++, JavaScript</li>
-            <li>Blockchain</li>
+            <li>Java, C++, JavaScript</li
         </ul>
     </section>
-
     <section id="projects">
         <h2>Projects</h2>
         <ul>
