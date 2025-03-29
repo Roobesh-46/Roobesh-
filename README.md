@@ -83,12 +83,13 @@
 <div class="container">
     <section id="about">
         <h2>About Me</h2>
-        <p>I'm a <strong>cyber security</strong> expert and technology enthusiast passionate about helping organizations protect their data and create secure online environments. With over 7 years of experience in the field, I stay updated with the latest trends in cyber security.</p>
+        <p>I'm a <strong>cyber security</strong>2 years computer science</p>
     </section>
 
     <section id="education">
         <h2>Education</h2>
-        <p><strong>Anna University</strong> - Computer science </p>
+        <p><strong>Madras University
+        </strong> - Computer science </p>
     </section>
 
     <section id="skills">
